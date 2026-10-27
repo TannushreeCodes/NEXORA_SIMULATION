@@ -1,0 +1,5 @@
+building,latitude,longitude,energy_status,water_status,waste_status,risk
+Block A,22.2490,84.9010,High,Normal,Normal,High
+Block B,22.2510,84.9030,Normal,Normal,Normal,Low
+Block C,22.2530,84.9050,Normal,High,Normal,Medium
+Block D,22.2550,84.9070,High,Normal,High,High
